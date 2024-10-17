@@ -32,7 +32,7 @@ description: |-
   - [iOS Auto Provision](https://www.bitrise.io/integrations/steps/ios-auto-provision)
   - [Fastlane Match](https://www.bitrise.io/integrations/steps/fastlane-match)
 asset_urls:
-  icon.svg: https://www.svgrepo.com/show/330416/fastlane.svg
+  icon.svg: https://www.svgrepo.com/show/512317/github-142.svg
 website: https://github.com/bitrise-io/steps-fastlane
 source_code_url: https://github.com/bitrise-io/steps-fastlane
 support_url: https://github.com/bitrise-io/steps-fastlane/issues
